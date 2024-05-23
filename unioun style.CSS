@@ -66,6 +66,8 @@
           border-color: black;
           transition: 0.3s;
         }
+        button:active {
+           background-color : white;
 
         h3 {
           display: inline-block;
